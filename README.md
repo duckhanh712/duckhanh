@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duc Khanh
 - 👀 skill: Nodejs/Express/Nestjs, Vuejs/nuxtj, PHP/Laravel
-- 🌱 I’m currently learning Devops, AWS, GCP
+- 🌱 I’m currently studing Devops, AWS, GCP
 - 💞️ I’m looking to collaborate on nothing...
 - 📫 How to reach me email: duckhanh97pt@gmail.com
 
